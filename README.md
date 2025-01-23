@@ -49,8 +49,14 @@ python app.py
 
 OBS: Lembrando que durante a execução da automação, não pode utilizar a máquina. E caso precise finalizá-la antes do término, somente é necessário arrastar o mouse até o canto superior direito do seu monitor e ela se encerrará automaticamente deixando a máquina livre para o uso.
 
+## Imagens do projeto
 
-## 📌 Informações importantes sobre a aplicação 📌
+![Pagina - Login](https://github.com/user-attachments/assets/119339ff-2114-48d3-852b-a5e018128013) 
+![Pagina - Formulario](https://github.com/user-attachments/assets/bc03e7a2-abee-4ab8-a01e-ea93261181aa) 
+![Cadastros_alunos](https://github.com/user-attachments/assets/90220eb8-e33c-45b8-8297-cb4ab80b6649)
+
+
+## Informações importantes sobre a aplicação 📌
 
 Todos os dados de informações de alunos foram adquiridos de forma fictícia através do ChatGPT, utilizando o seguinte prompt de comando para ele:
 
